@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+   <h1>HOME WORK Aliaksei Zaviarzhenets 29.06.2023</h1>
+  <h1>Список валют</h1>
+    <ul>
+    <li>EUR - Euro (European countries)</li>
+    <li>USD - Dollar (USA)</li>
+    <li>GBP - Pound (UK)</li>
+    <li>JPY -   Yen (Japan)</li>
+    <li>GEL - Lari (Georgia)</li>
+    </ul>
+   
+   
+   
+    <h1 class="h1">Курс на сегодня</h1>
+    <table class="custom-table">
+<tbody>
+<tr>
+   <td><h1>Флаг</h1></td>
+   <td><h1>Валюта</h1></td>
+   <td><h1>Курс</h1></td>
+</tr>
+
+<tr>
+    <td class="td1"><div>
+<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\usa.png" alt="">
+<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+    </div></td>
+    <td>(USD)/(EUR)</td>
+    <td>0.99 EUR</td>
+</tr>
+
+<tr>
+    <td><div>
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\UK.png" alt="">
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+    </div></td>
+    <td>(GBP)/(EUR)</td>
+    <td>0.37 EUR</td>
+</tr>
+
+<tr>
+    <td><div>
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\JAPAN.png" alt="">
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+    </div></td>
+    <td>(JPY)/(EUR)</td>
+    <td>0.0075 EUR</td>
+</tr>
+
+<tr>
+    <td><div>
+        <img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\GEORGIA.png" alt="">
+        <img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+    </div></td>
+
+<td>(GEL)/(EUR)</td>
+<td>0.32 EUR</td>
+</tr>
+</tbody>
+
+    </table>
+
+
+
+</body>
+</html>

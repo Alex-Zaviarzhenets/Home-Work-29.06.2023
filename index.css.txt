@@ -1,0 +1,25 @@
+.custom-table{
+    width: 40%;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    color:black
+}
+
+
+
+.img{
+ 
+border-radius: 10 px;
+width: 70px;
+}
+
+td{
+    width: 10px;
+    border: 2px solid black;
+
+}
+
+tr{
+    text-align: center;
+}
+
