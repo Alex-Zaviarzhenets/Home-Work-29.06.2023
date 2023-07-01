@@ -30,8 +30,8 @@
 
 <tr>
     <td class="td1"><div>
-<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\usa.png" alt="">
-<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\usa.png" alt="">
+<img class=img src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\EU.png" alt="">
     </div></td>
     <td>(USD)/(EUR)</td>
     <td>0.99 EUR</td>
@@ -39,8 +39,8 @@
 
 <tr>
     <td><div>
-<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\UK.png" alt="">
-<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\UK.png"alt="">
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\EU.png"alt="">
     </div></td>
     <td>(GBP)/(EUR)</td>
     <td>0.37 EUR</td>
@@ -48,8 +48,8 @@
 
 <tr>
     <td><div>
-<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\JAPAN.png" alt="">
-<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\JAPAN.png"alt="">
+<img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\EU.png"alt="">
     </div></td>
     <td>(JPY)/(EUR)</td>
     <td>0.0075 EUR</td>
@@ -57,8 +57,8 @@
 
 <tr>
     <td><div>
-        <img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\GEORGIA.png" alt="">
-        <img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\flag\EU.png" alt="">
+        <img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\GEORGIA.png"alt="">
+        <img class="img" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\HomeWork-tabel-20062023\flag\EU.png"alt="">
     </div></td>
 
 <td>(GEL)/(EUR)</td>
@@ -66,6 +66,12 @@
 </tr>
 </tbody>
 
+    </table>
+
+
+
+</body>
+</html>
     </table>
 
 
